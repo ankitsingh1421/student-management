@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>student Database Manager</title>
+    <meta charset="UTF-8" />
+  </head>
+
+  <body>
+    <div id="app">
+      <header class="header">
+        <h1>Student Database Management</h1>
+        <button class="createstudent">Add Student</button>
+      </header>
+
+      <div class="students">
+        <div class="students__names">
+          <span class="students__names--title">Student List</span>
+          <div class="students__names--list"></div>
+        </div>
+        <div class="students__single">
+          <div class="students__single--title">Student Information</div>
+          <div class="students__single--info"></div>
+        </div>
+      </div>
+
+      <!-- Add student Code - START -->
+      <div class="addstudent">
+        <form class="addstudent_create">
+          Add a new Student
+          <div>
+            <input type="text" name="first_name" placeholder="First Name" required/>
+            <input type="text" name="last_name" placeholder="Last Name" required/>
+          </div>
+          <input type="text" name="imageUrl" placeholder="Image URL (Optional)" />
+          <input type="email" name="email" placeholder="Email" required/>
+          <input type="number" name="mobile" placeholder="Contact" required/>
+          <input type="text" name="course" placeholder="course" required/>
+          <input type="date" name="dob" placeholder="Date of Birth" class="addstudent_create--dob" required/>
+          <input type="submit" class="addstudent_create--submit" value="Submit">
+        </form>
+      </div>
+      <!-- Add student Code - END -->
+    </div>
+    
+    <script src="./index.js"></script>
+    <link rel="stylesheet" href="./index.css">
+  </body>
+</html>

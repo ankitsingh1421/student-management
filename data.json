@@ -1,0 +1,299 @@
+[
+    {
+      "id": 1,
+      "first_name": "Ankit  ",
+      "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+      "last_name": "singh",
+      "email": "test.@gmail.com",
+      "gender": "male",
+      "addresss": "mba",
+      "age":"18",
+      "dob":"01-07-2006",
+      "mobile":"5353462542"
+    },
+    {
+      "id": 2,
+      "first_name": "Rockey",
+      "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+      "last_name": "Barlas",
+      "email": "rbarlas1@go.com",
+      "gender": "Male",
+      "addresss": "BCA",
+      "course ": "BCA",
+      "age":"21",
+      "dob":"18-02-2001",
+      "mobile":"8527385243"
+
+    },
+    {
+      "id": 3,
+      "first_name": "Gradey",
+      "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+      "last_name": "Andreichik",
+      "email": "gandreichik2@census.gov",
+      "gender": "Male",
+      "addresss": "b.tech",
+      "course ": "BCA"
+      ,
+      "age":"31",
+      "dob":"18-02-2001",
+      "mobile":"8527385243"
+
+    },
+    {
+      "id": 4,
+      "first_name": "Jeramie",
+      "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+      "last_name": "Earlam",
+      "email": "jearlam3@google.co.uk",
+      "gender": "Male",
+      "addresss": "b.tech",
+      "course ": "BCA",
+      "age":"41",
+      "dob":"18-02-2001",
+      "mobile":"8527385243"
+
+    },
+    {
+      "id": 5,
+      "first_name": "Jamie",
+      "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+      "last_name": "Jones",
+      "email": "jjones4@dailymail.co.uk",
+      "gender": "Male",
+      "addresss": "b.tech",
+      "course ": "BCA",
+      "age":"21",
+      "dob":"18-02-2001",
+      "mobile":"8527385243"
+
+    },
+    {
+      "id": 6,
+    "first_name": "Lulita",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Fogden",
+    "email": "lfogden5@netlog.com",
+    "gender": "Female",
+    "addresss": "b.tech",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 7,
+    "first_name": "Leonora",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Longmaid",
+    "email": "llongmaid6@mlb.com",
+    "gender": "Female",
+    "addresss": "b.tech",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 8,
+    "first_name": "Stevie",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Cunniam",
+    "email": "scunniam7@wsj.com",
+    "gender": "Male",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"41",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 9,
+    "first_name": "Archer",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Auton",
+    "email": "aauton8@ucoz.ru",
+    "gender": "Male",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"23",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 10,
+    "first_name": "Stanislaw",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Mulqueeny",
+    "email": "smulqueeny9@wordpress.com",
+    "gender": "Male",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"22",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 11,
+    "first_name": "Pris",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Mattek",
+    "email": "pmatteka@latimes.com",
+    "gender": "Female",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"29",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 12,
+    "first_name": "Bing",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Suddell",
+    "email": "bsuddellb@ox.ac.uk",
+    "gender": "Male",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 13,
+    "first_name": "Burtie",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Critoph",
+    "email": "bcritophc@hugedomains.com",
+    "gender": "Male",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 14,
+    "first_name": "Miner",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Dory",
+    "email": "mdoryd@jiathis.com",
+    "gender": "Male",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 15,
+    "first_name": "Nevins",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Billingham",
+    "email": "nbillinghame@nasa.gov",
+    "gender": "Male",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 16,
+    "first_name": "Ellissa",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Conduit",
+    "email": "econduitf@eventbrite.com",
+    "gender": "Female",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 17,
+    "first_name": "Baryram",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Theze",
+    "email": "bthezeg@hao123.com",
+    "gender": "Male",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 18,
+    "first_name": "Reinhard",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Burchard",
+    "email": "rburchardh@pinterest.com",
+    "gender": "Non-binary",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 19,
+    "first_name": "Maure",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Street",
+    "email": "mstreeti@ifeng.com",
+    "gender": "Female",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  },
+  {
+    "id": 20,
+    "first_name": "Nadya",
+    "img":"https://cdn-icons-png.flaticon.com/512/0/93.png",
+
+    "last_name": "Jalland",
+    "email": "njallandj@go.com",
+    "gender": "Female",
+    "addresss": "BCA",
+    "course ": "BCA",
+    "age":"21",
+    "dob":"18-02-2001",
+    "mobile":"8527385243"
+
+  }
+]
